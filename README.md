@@ -1,6 +1,6 @@
 # Mariana Valenzuela Penagos
 
-###Descripción: Aprendiz SENA - Análisis y desarrollo de software
+### Descripción: Aprendiz SENA - Análisis y desarrollo de software
 
 1.Pseint
 
