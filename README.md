@@ -8,5 +8,5 @@ CODE_ORGANIZATION: code-sena
 Hi there 👋
 - I'm currently studying at SENA 🎓
 - I'm learning software analysis and development 💻📊
-<img width="735" height="719" alt="image" src="https://github.com/user-attachments/assets/f39c8ad4-d4be-4cd2-a55d-6fa8c88683e0" />
+<img width="300" height="719" alt="image" src="https://github.com/user-attachments/assets/f39c8ad4-d4be-4cd2-a55d-6fa8c88683e0" />
 
